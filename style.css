@@ -22,8 +22,8 @@ html,body{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 0 6vmax;
-}
+    padding: 0 6vw;
+} 
 
 .nav-part2{
     display: flex;
